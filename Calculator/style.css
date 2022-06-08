@@ -1,0 +1,32 @@
+.text-center{
+    text-align: center;
+}
+
+.container{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    min-width: 50px;
+    min-height: 50px;
+    background-color: blue;
+    margin: 10px 5px ;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.row{
+    min-width: 200px;
+}
+.row input{
+    padding: 12px 37px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
